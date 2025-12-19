@@ -7,7 +7,7 @@ age: premier
 statut: canon
 ---
 ## Description
-Description générale du lieu.
+Cité des [[Gondothlim]] peuple de [[Noldoli]] qui ont échappé à l'esclavagisme de [[Melkor]].
 
 ## Localisation
 - **Région** : [[Belerian]]

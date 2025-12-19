@@ -7,13 +7,12 @@ peuple:
 age:
 ---
 ## Identité
-- **Race** : 
+- **Race** : Homme
 - **Peuple / Clan** : 
-- **Âge** : 
-- **Statut** : 
+- **Âge** : Premier
 
 ## Description
-Brève description du personnage.
+Tuor est un homme du premier age ayant découvert la cité de [[Gondolin]] avec l'aide de [[Voronwë]]. Il a participé à la bataille pour la défense de la cité contre l'armé de [[Melkor]] qui conduira à la [[La chute de Gondolin]].
 
 ## Histoire
 - 
@@ -25,10 +24,10 @@ Brève description du personnage.
 - 
 
 ## Événements majeurs
-- 
+- Découverte de participation à la bataille pour la défense de [[Gondolin]] contre les troupes de [[Melkor]]
 
 ## Textes sources
-- 
+-  [[La chute de Gondolin - Le Conte]]
 
 ## Variantes & versions
 > Différences selon les textes.
