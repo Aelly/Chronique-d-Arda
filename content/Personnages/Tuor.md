@@ -2,7 +2,7 @@
 type: personnage
 tags:
   - personnage
-race:
+race: Homme
 peuple:
 age:
 ---
@@ -10,6 +10,7 @@ age:
 - **Race** : 
 - **Peuple / Clan** : 
 - **Âge** : 
+- **Statut** : 
 
 ## Description
 Brève description du personnage.

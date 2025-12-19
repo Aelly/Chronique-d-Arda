@@ -9,7 +9,7 @@ lieux:
   - Belerian
 ---
 ## Résumé
-Résumé factuel de l’événement.
+Décrit la destruction de la ville elfique de [[Gondolin]] par les troupes de [[Melkor]] à la fin du premier age.
 
 ## Causes
 - 
@@ -28,10 +28,10 @@ Résumé factuel de l’événement.
 
 ## Versions du récit
 
+[[La chute de Gondolin - Le Conte]]
+
 ## Chronologie
 - **Âge** : 
 - **Période** : 
 
 ## Notes personnelles
-
-## Sources

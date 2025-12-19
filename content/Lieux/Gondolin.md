@@ -1,15 +1,16 @@
 ---
 type: lieu
-tags: [lieu]
-region:
-age:
-statut:
+tags:
+  - lieu
+region: Belerian
+age: premier
+statut: canon
 ---
 ## Description
 Description générale du lieu.
 
 ## Localisation
-- **Région** : 
+- **Région** : [[Belerian]]
 - **Monde** : [[Arda]]
 
 ## Histoire

@@ -6,12 +6,6 @@ auteur: J.R.R. Tolkien
 date:
 statut: canon
 ---
-
-# {{title}}
-
-## Type
-Texte / Source
-
 ## Description
 Présentation générale du texte.
 
@@ -31,3 +25,5 @@ Présentation générale du texte.
 - 
 
 ## Notes personnelles
+
+## Sources
