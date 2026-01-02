@@ -7,23 +7,35 @@ age: premier
 statut: canon
 ---
 ## Description
-Cité des [[Gondothlim]] peuple de [[Noldoli]] qui ont échappé à l'esclavagisme de [[Melkor]].
+Cité des [[Gondothlim]] peuple de [[Noldor]] qui ont échappé à l'esclavagisme de [[Melkor (Morgoth)]].
+
+Dans [[La chute de Gondolin - Le Conte]], elle est nommé la cité au sept noms :
+- Gondobar (cité de pierre)
+- Gondothlimbar (cité de ceux qui demeurent dans la pierre)
+- Gondolin (la pierre des chansons)
+- Gwarestrin (la tour de garde)
+- Gar Turion (lieu secret)
+- Loth (fleur)
+- Lothengriol (la fleur qui fleurit sur la plaine)
 
 ## Localisation
-- **Région** : [[Belerian]]
+- **Région** : [[Beleriand]]
 - **Monde** : [[Arda]]
+
+Niché dans la vallée de Tumladen, la vallée lisse qui le peuple de Gondolin a applatie afin de voir arriver tous les gens qui voudraient s'approcher de la cité. Encerclé par les montagnes d'Echoriath et de Crissaegrim. La cité a été construite au sommet de la colline du guet (Amon Gwareth) pas tout a fait au centre de la vallée.
 
 ## Histoire
 - 
 
 ## Événements notables
-- 
+- [[La chute de Gondolin]]
 
 ## Personnages associés
-- 
+- [[Turgon]]
+- [[Meglin]]
 
 ## Textes sources
-- 
+- [[La chute de Gondolin - Le Conte]]
 
 ## Variantes & évolutions
 > Changements ou descriptions différentes selon les textes.
@@ -31,3 +43,4 @@ Cité des [[Gondothlim]] peuple de [[Noldoli]] qui ont échappé à l'esclavagis
 ## Notes personnelles
 
 ## Sources
+- [Gondolin - Tolkien Gateway](https://tolkiengateway.net/wiki/Gondolin)

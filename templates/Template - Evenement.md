@@ -5,8 +5,6 @@ tags:
 age: premier
 periode: fin_premier_age
 lieux:
-  - Gondolin
-  - Belerian
 ---
 ## Résumé
 Résumé factuel de l’événement.

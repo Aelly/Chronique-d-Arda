@@ -6,10 +6,10 @@ age: premier
 periode: fin_premier_age
 lieux:
   - Gondolin
-  - Belerian
+  - Beleriand
 ---
 ## Résumé
-Décrit la destruction de la ville elfique de [[Gondolin]] par les troupes de [[Melkor]] à la fin du premier age.
+Décrit la destruction de la ville elfique de [[Gondolin]] par les troupes de [[Melkor (Morgoth)]] à la fin du premier age. 
 
 ## Causes
 - 
@@ -18,20 +18,29 @@ Décrit la destruction de la ville elfique de [[Gondolin]] par les troupes de [[
 - 
 
 ## Conséquences
-- 
+- [[Gondolin]] conquise par l'armé de [[Melkor (Morgoth)]]
+- Naissance de [[Eärendil]]
 
 ## Lieux concernés
 - 
 
 ## Personnages impliqués
-- 
+- [[Tuor]]
+- [[Voronwë]]
+- [[Ulmo]]
+- [[Eärendil]]
 
 ## Versions du récit
 
 [[La chute de Gondolin - Le Conte]]
+[[La chute de Gondolin - Texte original]]
+[[Turlin et les Exilés de Gondolin]]
+[[La chute de Gondolin - Esquisse de la Mythologie]]
+[[La chute de Gondolin - Quenta Noldorinwa]]
+[[La chute de Gondolin - Dernière version]]
 
 ## Chronologie
-- **Âge** : 
+- **Âge** : [[Première age]]
 - **Période** : 
 
 ## Notes personnelles
