@@ -6,7 +6,6 @@ auteur: J.R.R. Tolkien
 date: 1916-1917
 statut: canon
 ---
-	
 ## Description
 Décrit la découverte de la cité de [[Gondolin]] par [[Tuor]] et finalement la chute de la cité par la traitrise de [[Meglin]]. Ce récité est compté par [[Ilfiniol Petitcoeur]], fils de [[Voronwë]]. C'est la première version du récit.
 

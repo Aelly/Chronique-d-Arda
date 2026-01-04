@@ -4,8 +4,6 @@ tags:
   - livre
 ---
 
-# La chute de Gondolin (livre)
-
 ## Description
 Regroupement de brouillon écrit par [[J.R.R Tolien]] décrivant [[La chute de Gondolin]], édité par [[Christopher Tolkien]]. On y retrouve les différentes version de l'histoire par ordre chronologique d'écriture ainsi que des commentaire de [[Christopher Tolkien]].
 

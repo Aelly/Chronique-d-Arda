@@ -32,12 +32,12 @@ Décrit la destruction de la ville elfique de [[Gondolin]] par les troupes de [[
 
 ## Versions du récit
 
-[[La chute de Gondolin - Le Conte]]
-[[La chute de Gondolin - Texte original]]
-[[Turlin et les Exilés de Gondolin]]
-[[La chute de Gondolin - Esquisse de la Mythologie]]
-[[La chute de Gondolin - Quenta Noldorinwa]]
-[[La chute de Gondolin - Dernière version]]
+- [[La chute de Gondolin - Le Conte]]
+- [[La chute de Gondolin - Texte original]]
+- [[Turlin et les Exilés de Gondolin]]
+- [[La chute de Gondolin - Esquisse de la Mythologie]]
+- [[La chute de Gondolin - Quenta Noldorinwa]]
+- [[La chute de Gondolin - Dernière version]]
 
 ## Chronologie
 - **Âge** : [[Première age]]

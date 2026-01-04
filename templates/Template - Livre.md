@@ -4,8 +4,6 @@ tags:
   - livre
 ---
 
-# {{title}}
-
 ## Description
 Présentation générale du livre (objectif éditorial, nature du contenu).
 
