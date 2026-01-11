@@ -12,7 +12,7 @@ lieux:
 Décrit la destruction de la ville elfique de [[Gondolin]] par les troupes de [[Melkor (Morgoth)]] à la fin du premier age. 
 
 ## Causes
-- 
+- L'orgueil de [[Turgon]] qui n'a pas écouté les paroles d'[[Ulmo]] et a considérer que même dans l'éventualité mince où Melkor trouverai la cité, celle-ci ne pourrait pas tomber.
 
 ## Déroulement
 - 

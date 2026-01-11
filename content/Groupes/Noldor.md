@@ -16,7 +16,7 @@ age:
 - **Âge(s) concerné(s)** : Tous
 
 ## Description
-Les Noldor sont un peuple elfique connu pour leur savoir, leur artisanat et leur rôle central dans les événements du Premier Âge.
+Les Noldor sont un peuple elfique connu pour leur savoir, leur artisanat et leur rôle central dans les événements du Premier Âge. Dans les anciennes version des textes de Tolkien, ils était appelé **Gnomes** ou **Noldoli**. 
 
 ## Origine
 - 
