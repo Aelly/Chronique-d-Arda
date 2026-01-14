@@ -9,7 +9,7 @@ age:
 ## Identité
 - **Race** : Homme
 - **Peuple / Clan** : 
-- **Âge** : Premier
+- **Âge** : [[Première age]]
 
 ## Description
 Tuor est un homme du premier age ayant découvert la cité de [[Gondolin]] avec l'aide de [[Voronwë]]. Il a participé à la bataille pour la défense de la cité contre l'armé de [[Melkor (Morgoth)]] qui conduira à la [[La chute de Gondolin]].

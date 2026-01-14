@@ -17,6 +17,7 @@ def analyze_file(file_path: Path):
     links_lines = defaultdict(list)
     in_sources_section = False
     in_personnages_section = False
+    in_lieu_associe = False
 
     with file_path.open(encoding="utf-8") as f:
         for line_number, line in enumerate(f, start=1):
@@ -31,9 +32,12 @@ def analyze_file(file_path: Path):
                 elif stripped == "## Personnages notables":
                     in_personnages_section = True
                     continue
+                elif stripped == '## Lieux associés':
+                    in_lieu_associe = True
                 else:
                     # Tout autre H2 termine la section "Personnages notables"
                     in_personnages_section = False
+                    in_lieu_associe = False
 
             # Ignorer tout ce qui est après ## Sources
             if in_sources_section:
@@ -42,6 +46,10 @@ def analyze_file(file_path: Path):
             # Ignorer la section Personnages notables
             if in_personnages_section:
                 continue
+
+            # Ignorer la section Lieux associés
+            if in_lieu_associe:
+                continue;
 
             # Ignorer les blocs de citation
             if stripped.startswith(">"):
